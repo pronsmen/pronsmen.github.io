@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pronsmen.github.io/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/app/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/assets/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/css/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/includes/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/item/sitemap.html.gz
+Sitemap: https://pronsmen.github.io/src/sitemap.html.gz
